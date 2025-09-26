@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME: HARITHA SHREE</H3>
 <H3>ENTER YOUR REGISTER NO.: 212222230046</H3>
 <H3>EX. NO.1</H3>
-<H3>DATE</H3>
+<H3>DATE: 26.09.2025</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
